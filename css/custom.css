@@ -1,0 +1,26 @@
+form label.error {
+	display: none !important;
+}
+
+form input[type=text].error,
+form input[type=password].error, 
+form textarea.error {
+	color: red !important;
+}
+
+.tspt-btn span {
+	border-bottom: 1px solid;
+}
+
+.tspt-btn.popup span {
+	border-bottom: 1px dotted;
+}
+
+.add-to-compare-list.product {
+	float: left;
+}
+
+div.error p {
+	font-weight: bold;
+	color: red;
+}

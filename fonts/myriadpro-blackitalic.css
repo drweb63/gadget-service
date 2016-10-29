@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'MyriadProBlackSemiExtendedItalic';
+    src: url('myriadpro-blackitalic.eot');
+    src: url('myriadpro-blackitalic.eot') format('embedded-opentype'),
+         url('myriadpro-blackitalic.woff') format('woff'),
+         url('myriadpro-blackitalic.ttf') format('truetype'),
+         url('myriadpro-blackitalic.svg#MyriadProBlackSemiExtendedItalic') format('svg');
+}

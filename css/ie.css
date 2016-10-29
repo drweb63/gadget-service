@@ -1,0 +1,214 @@
+body{
+	/*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#364740', endColorstr='#424839',GradientType=1 );*/
+}
+
+#wrapper{
+	/*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#59000000',GradientType=1 );*/
+}
+
+#layout{
+	filter: alpha(opacity=50);
+}
+
+.type-switcher li.active{
+	background: #F0F735;
+}
+
+.slide-container li{
+	filter: alpha(opacity=100);
+}
+
+.slide-container li{
+	filter: alpha(opacity=0);
+}
+
+.comparison.bright .same td{
+	filter: alpha(opacity=8);
+}
+
+.search .input{
+	color: #CCC;
+}
+
+.contacts .feedback{
+	background: #000;
+}
+
+.feedback .textarea{
+	padding-top: 10px;
+}
+
+.feedback .textarea .placeholder{
+	padding-top: 18px !important;
+}
+
+.feedback input,
+.feedback textarea{
+	color: #000 !important;
+}
+
+.checkbox input{
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.checkbox div{
+	display: none;
+}
+
+.advices .listed li.active{
+	margin-bottom: 10px;
+}
+
+.catalog-link > a{
+	font-size: 14px;
+}
+
+.main-slider .contents .link{
+	font-size: 17px;
+	font-weight: bold;
+}
+
+.main-slider .contents li.active .link{
+	font-size: 32px;
+}
+
+#wrapper{
+	*width: 1000px;
+	*overflow: visible;
+}
+
+.catalog-search input{
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1a000000', endColorstr='#1affffff',GradientType=0 );
+}
+
+.pic-preview li a img{
+	filter: alpha(opacity=50);
+}
+
+.pic-preview li.active a img{
+	filter: alpha(opacity=100);
+}
+
+.search .input input{
+	background: url('../images/bg/search.png');
+	width: 257px !important;
+	height: 11px;
+}
+
+.columns{
+
+}
+
+button.button{
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0fffffff', endColorstr='#0f000000',GradientType=0 );
+}
+
+button.button:active{
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0f000000', endColorstr='#0fffffff',GradientType=0 );
+}
+
+.columns .spacer,
+.column-left,
+.column-center,
+.column-right{
+	*float: left;
+}
+
+.columns .spacer{
+	*width: 5px;
+}
+
+.menu > ul > li{
+	*float: left;
+	*padding: 0 15px 25px !important;
+	*height: 16px;
+}
+
+	.menu > ul{
+		*padding-top: 18px;
+	}
+
+	.menu li.active{
+		*padding-top: 0 !important;
+		*padding-bottom: 25px !important;
+	}
+
+	.menu li.active.alone{
+		*margin-top: -15px !important;
+	}
+
+	.menu li.active.alone div{
+		*background: none !important;
+	}
+
+	.menu li.active.alone a{
+		*border: 1px solid #F00;
+		*padding-bottom: 7px !important;
+	}
+
+.submenu {
+	*width: 400px;
+}
+
+	.submenu li{
+		*background: none !important;
+		*float: left;
+	}
+
+	.submenu li div{
+		*background: none !important;
+	}
+
+	.submenu li.active div{
+		*margin-top: -10px;
+	}
+
+.phone-switcher li,
+.search .input,
+.search button{
+	*display: inline;
+}
+
+.contacts .phone-switcher{
+	*width: 175px;
+}
+
+.maps-lists .decorator,
+.contacts .feedback{
+	*display: none !important;
+}
+
+.search{
+	*margin-left: 0 !important;
+	left: -36px;
+}
+
+.page-arrow{
+	*top: 400px !important;
+}
+
+	.page-arrow span{
+		*display: none;
+	}
+
+.switcher li{
+	*padding: 0;
+}
+
+	.switcher li a{
+		*background: #2D2E2D;
+		*height: auto;
+	}
+
+	.switcher li.active a{
+		*background: #D2DC00;
+	}
+
+.slides-line .cell{
+	*float: left;
+}
+
+.advices .listed li{
+	*zoom: 1;
+}
